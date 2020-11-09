@@ -7,7 +7,7 @@
 
 * Churned ratio with respect to country
 
-<img src="existedvsgeography.png/">
+<img src="exitedvsgeography.png/">
 
 * Observing which Gender is more active Male or Female
 
@@ -20,5 +20,7 @@
 
 > Tensorflow
 <img src="tensorflow.png/">
+
+* Santosh Thapa 2020
 
 
